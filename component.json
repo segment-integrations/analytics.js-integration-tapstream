@@ -2,7 +2,7 @@
   "name": "analytics.js-integration-tapstream",
   "repo": "segment-integrations/analytics.js-integration-tapstream",
   "description": "The Tapstream analytics.js integration.",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "license": "MIT",
   "main": "lib/index.js",
   "dependencies": {
